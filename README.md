@@ -1,2 +1,1 @@
-# debian10-android-29
-Debian-10 + Android SDK-29 + Fastlane for using with CircleCI
+This image is developed to use as build image in Circle CI
